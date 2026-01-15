@@ -1,6 +1,17 @@
 # NRSC Cloud & Shadow Segmentation Project
+[**Certificate of Achievement (ISRO)**](RACHIT%20GUPTA_certificate.pdf) | [**Project Report**](Report.pdf)
 
 This project implements a SwinUNet-based deep learning model for separating clouds and shadows from satellite imagery. It includes a complete pipeline from data preprocessing to training, inference, and GeoTIFF generation.
+
+## 🖼️ Sample Results (Reference)
+Below are sample inputs and outputs for reference. Note: The input and output below are structural examples and may not correspond to the exact same image instance due to dataset separation.
+
+| Sample Input (RGB Crop) | Sample Output (Predicted Mask) |
+|:---:|:---:|
+| <img src="sample_data/sample_input.png" width="250"> | <img src="sample_data/sample_output_mask.png" width="250"> |
+
+
+
 
 ## 📂 Project Structure
 

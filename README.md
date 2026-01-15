@@ -2,7 +2,7 @@
 [**Certificate of Achievement (ISRO)**](RACHIT%20GUPTA_certificate.pdf) | [**Project Report**](Report.pdf)
 
 This project implements a SwinUNet-based deep learning model for separating clouds and shadows from satellite imagery. It includes a complete pipeline from data preprocessing to training, inference, and GeoTIFF generation.
-*The Certificates were given to only those participants who submitted a working model 
+**Certificates were given to only those participants who submitted a working model**
 
 ## 🖼️ Sample Results (Reference)
 Below are sample inputs and outputs for reference. Note: The input and output below are structural examples and may not correspond to the exact same image instance due to dataset separation.

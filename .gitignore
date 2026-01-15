@@ -1,0 +1,10 @@
+data/
+output/
+NRCC251128_output/
+*.pth
+.DS_Store
+venv/
+.venv/
+__pycache__/
+predictions/
+Test_Predictions/

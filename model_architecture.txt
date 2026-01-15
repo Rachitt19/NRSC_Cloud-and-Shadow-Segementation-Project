@@ -1,0 +1,7 @@
+Swin-UNet2D with tu-swin_base_patch4_window7_224 encoder
+- Pretrained on ImageNet
+- Decoder: 5 blocks with decoder_channels=(256, 128, 64, 32, 16)
+- Segmentation Head: 1 channel output, kernel size=3, no activation
+
+Input size: 3 x 512 x 512
+Loss: BCEWithLogitsLoss
